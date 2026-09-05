@@ -359,4 +359,5 @@ if results:
 # =============================================================================
 
 st.divider()
-st.caption("Research Desk · Multi-Agent Research System")
+st.caption("Research Desk · Multi_Agent Research System")
+
