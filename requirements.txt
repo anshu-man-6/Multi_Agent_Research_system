@@ -9,3 +9,8 @@ streamlit
 dotenv
 
 ipykernel
+
+rich
+trafilatura
+readability
+bs4
