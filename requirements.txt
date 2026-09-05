@@ -1,0 +1,11 @@
+langchain 
+langchain-core
+langchain-community
+tavily
+requests
+
+streamlit
+
+dotenv
+
+ipykernel
