@@ -1,6 +1,7 @@
 langchain 
 langchain-core
 langchain-community
+langchain-Groq
 tavily
 requests
 
@@ -12,5 +13,7 @@ ipykernel
 
 rich
 trafilatura
-readability
+readability-lxml
 bs4
+langchain_huggingface 
+transformers
