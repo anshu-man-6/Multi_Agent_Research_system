@@ -17,3 +17,5 @@ readability-lxml
 bs4
 langchain_huggingface 
 transformers
+
+lxml
