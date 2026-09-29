@@ -224,6 +224,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-For support, open an issue on GitHub or contact the maintainers.
+For support, open an issue on GitHub or contact the maintainers. Also you can give some suggestions.
 
 **Happy Researching! 🚀**
